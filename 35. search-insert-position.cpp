@@ -15,7 +15,6 @@ int searchInsert(vector<int>& nums, int target) {
             else{
                 start = mid+1;
             }
-            
         }
         return start;
 }
