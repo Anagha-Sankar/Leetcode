@@ -17,4 +17,3 @@ int firstBadVersion(int n) {
         }
         return ans;
 }
-
